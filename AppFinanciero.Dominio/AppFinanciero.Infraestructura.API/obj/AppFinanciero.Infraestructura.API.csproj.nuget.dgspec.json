@@ -1,0 +1,350 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.API\\AppFinanciero.Infraestructura.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Aplicaciones\\AppFinanciero.Aplicaciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Aplicaciones\\AppFinanciero.Aplicaciones.csproj",
+        "projectName": "AppFinanciero.Aplicaciones",
+        "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Aplicaciones\\AppFinanciero.Aplicaciones.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Aplicaciones\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\AppFinanciero.Dominio.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\AppFinanciero.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.28.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.28.1, )"
+            },
+            "XAct.Core.PCL": {
+              "target": "Package",
+              "version": "[0.0.5014, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\AppFinanciero.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\AppFinanciero.Dominio.csproj",
+        "projectName": "AppFinanciero.Dominio",
+        "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\AppFinanciero.Dominio.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.API\\AppFinanciero.Infraestructura.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.API\\AppFinanciero.Infraestructura.API.csproj",
+        "projectName": "AppFinanciero.Infraestructura.API",
+        "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.API\\AppFinanciero.Infraestructura.API.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Aplicaciones\\AppFinanciero.Aplicaciones.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Aplicaciones\\AppFinanciero.Aplicaciones.csproj"
+              },
+              "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.Datos\\AppFinanciero.Infraestructura.Datos.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.Datos\\AppFinanciero.Infraestructura.Datos.csproj"
+              },
+              "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.DTO\\AppFinanciero.Infraestructura.DTO.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.DTO\\AppFinanciero.Infraestructura.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.Datos\\AppFinanciero.Infraestructura.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.Datos\\AppFinanciero.Infraestructura.Datos.csproj",
+        "projectName": "AppFinanciero.Infraestructura.Datos",
+        "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.Datos\\AppFinanciero.Infraestructura.Datos.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\AppFinanciero.Dominio.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\AppFinanciero.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.DTO\\AppFinanciero.Infraestructura.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.DTO\\AppFinanciero.Infraestructura.DTO.csproj",
+        "projectName": "AppFinanciero.Infraestructura.DTO",
+        "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.DTO\\AppFinanciero.Infraestructura.DTO.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Infraestructura.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\AppFinanciero.Dominio.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\Quind\\Aplicaciones\\API\\AppFinanciero.Dominio\\AppFinanciero.Dominio\\AppFinanciero.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

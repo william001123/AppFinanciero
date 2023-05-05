@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\bin\Debug\net6.0\AppFinanciero.Dominio.exe
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\bin\Debug\net6.0\AppFinanciero.Dominio.deps.json
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\bin\Debug\net6.0\AppFinanciero.Dominio.runtimeconfig.json
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\bin\Debug\net6.0\AppFinanciero.Dominio.dll
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\bin\Debug\net6.0\AppFinanciero.Dominio.pdb
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\AppFinanciero.Dominio.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\AppFinanciero.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\AppFinanciero.Dominio.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\AppFinanciero.Dominio.AssemblyInfo.cs
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\AppFinanciero.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\AppFinanciero.Dominio.dll
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\refint\AppFinanciero.Dominio.dll
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\AppFinanciero.Dominio.pdb
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\AppFinanciero.Dominio.genruntimeconfig.cache
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Dominio\obj\Debug\net6.0\ref\AppFinanciero.Dominio.dll

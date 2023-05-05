@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\bin\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.exe
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\bin\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.deps.json
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\bin\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.runtimeconfig.json
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\bin\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.dll
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\bin\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.pdb
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.AssemblyInfo.cs
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.dll
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\refint\AppFinanciero.Infraestructura.Mensajes.dll
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.pdb
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\AppFinanciero.Infraestructura.Mensajes.genruntimeconfig.cache
+C:\Users\user\Documents\Quind\Aplicaciones\API\AppFinanciero.Dominio\AppFinanciero.Infraestructura.Mensajes\obj\Debug\net6.0\ref\AppFinanciero.Infraestructura.Mensajes.dll
